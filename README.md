@@ -37,5 +37,5 @@
 - Employee distance from office
 - Education field distribution
 - ## Dashboard Preview
-  <img width="607" height="340" alt="HR Analytic Dashboard" src="https://github.com/user-attachments/assets/9b96ed1e-9fa3-4a44-90d6-9b181bf770e1" />
+  <img width="607" height="340" alt="HR-Performance-Dashboard" src="https://github.com/user-attachments/assets/9b96ed1e-9fa3-4a44-90d6-9b181bf770e1" />
 
