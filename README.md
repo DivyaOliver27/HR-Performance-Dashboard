@@ -1,30 +1,29 @@
  # HR-Performance-Dashboard
 - ## Overview
-An interactive Power BI dashboard built to give HR teams 
-a single view of workforce data across 1,470 employees. 
-The dashboard supports data-driven decisions around 
-promotions, retention, and workforce planning.
+  An interactive Power BI dashboard built to give HR teams 
+  a single view of workforce data across 1,470 employees. 
+  The dashboard supports data-driven decisions around 
+  promotions, retention, and workforce planning.
 - ## Problem Statement
-HR teams managing large workforces often lack a centralized 
-view of employee data. This dashboard solves that by 
-consolidating headcount, promotion pipeline, job levels, 
-tenure, and commute data into one interactive report.
+ HR teams managing large workforces often lack a centralized 
+ view of employee data. This dashboard solves that by 
+ consolidating headcount, promotion pipeline, job levels, 
+ tenure, and commute data into one interactive report.
 - ## Tools Used
 - Power BI (Dashboard building, KPI cards, charts)
 - DAX (Calculated measures and KPIs)
 - Excel (Data preparation and cleaning)
 - ## Dataset
-- Source: [add your actual source — Kaggle/Maven Analytics]
 - Records: 1,470 employees
 - Fields: Gender, Age, Job Level, Years at Company,
   Distance from Home, Education Field, Promotion Status
-  - ## Key Findings
-- Only 72 employees (4.9%) are flagged for promotion —
+ - ## Key Findings
+- Only 72 employees (4.9%) are flagged for promotion
   indicating potential career stagnation across the workforce
 - 95.1% of employees (1,398) are not due for promotion
 - 64% of staff live very close to the office,
   suggesting low commute-driven attrition risk
-- Workforce is heavily junior — Level 1 and Level 2
+- Workforce is heavily junior:Level 1 and Level 2
   combined make up 73% of total headcount
 - Life Sciences is the dominant education background,
   outnumbering HR graduates by over 20x (1,775 vs 84)
@@ -40,4 +39,3 @@ tenure, and commute data into one interactive report.
 - ## Dashboard Preview
 - <img width="594" height="335" alt="HR Dashboard" src="https://github.com/user-attachments/assets/0a62c94e-deac-4c27-a61a-404292f72807" />
 
-- 
